@@ -5,8 +5,9 @@
 
 - 📫 How to reach me **lgurjidze@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">What I am up to</h3>
 <p align="left">
+   Currently, I'm diving deep into the world of software development while pursuing my IT degree at the Business and Technology University. I've honed my skills through hands-on projects and continuous learning, including completing several Udemy and CodewithMosh courses on Python, Django, and full-stack web development.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
