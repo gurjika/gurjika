@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Gurjidze</h1>
 <h3 align="center">A passionate IT student pursuing backend development from Tbilisi, Georgia. </h3>
 
-- 🌱 I’m currently learning **DRF, Django Channels, Javascript, HTMX, Docker**
+- 🌱 I’m currently learning **DRF, Docker, Linux**
 
 - 📫 How to reach me **lgurjidze@gmail.com**
 
