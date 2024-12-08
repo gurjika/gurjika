@@ -26,8 +26,7 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/georgia/gurjika.svg)](https://user-badge.committers.top/georgia/gurjika)
-[![committers.top badge](https://user-badge.committers.top/georgia_public/gurjika.svg)](https://user-badge.committers.top/georgia_public/gurjika)
-[![committers.top badge](https://user-badge.committers.top/georgia_private/gurjika.svg)](https://user-badge.committers.top/georgia_private/gurjika)
+
 
 
 
