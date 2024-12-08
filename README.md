@@ -24,8 +24,11 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Badges:</h3>
 
 [![committers.top badge](https://user-badge.committers.top/georgia/gurjika.svg)](https://user-badge.committers.top/georgia/gurjika)
+[![committers.top badge](https://user-badge.committers.top/georgia_public/gurjika.svg)](https://user-badge.committers.top/georgia_public/gurjika)
+[![committers.top badge](https://user-badge.committers.top/georgia_private/gurjika.svg)](https://user-badge.committers.top/georgia_private/gurjika)
+
+
 
 
