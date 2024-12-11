@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **DRF, Docker, Linux**
 
 - 📫 How to reach me **lgurjidze@gmail.com**
+  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/luka-gurjidze/)
 
 <h3 align="left">What I am up to</h3>
 <p align="left">
