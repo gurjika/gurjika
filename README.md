@@ -28,7 +28,6 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/georgia/gurjika.svg)](https://user-badge.committers.top/georgia/gurjika)
 
 
 
